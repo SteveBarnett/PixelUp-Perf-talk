@@ -1,8 +1,8 @@
 ## About the talk
 
-Performance matters. Slow and heavy sites and apps cost our users time and money. This is especially true in South Africa where phones are slower and data is more expensive. Some of the patterns we use, and the way we implement them, make things worse. In the end this means we lose customers and lose money. Ouch.
+Performance matters. Slow, heavy, sites and apps cost our users time and money. This is especially true in South Africa where most phones are slower and data is more expensive. Some of the patterns we use, and the ways we implement them, make things worse. Our users lose time and money. We lose customers and lose money. Bad feels all round!
 
-Dani and Steve will talk about the details of what performance means and how we can do better for our users. #perfmatters
+Dani and Steve will talk about: the details of what performance means; how the choices we make impact performance; how we can make more gooder choices and save our users time and money.
 
 ## About the speakers
 
