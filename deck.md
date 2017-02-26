@@ -346,104 +346,7 @@ Cost Benefit analysis
 
 ---
 
-## medium.com
-## **50 requests, 0.9MB**
-## 0.5MB JS
-
-![](img/sites/medium.jpeg)
-
-^ text and images!
-
----
-
-## nngroup.com
-## **40 requests, 0.6MB**
-## 0.3MB Images
-
-![](img/sites/nngroup.jpeg)
-
-^ Format
-Loading some that are shown
-
----
-
-## uxbooth.com
-## **60 requests, 0.8MB**
-## 0.3MB JS, 0.2MB CSS
-
-![](img/sites/uxbooth.jpeg)
-
----
-
-## svpg.com
-## **70 requests, 2.5MB**
-## 0.7MB header image
-
-![](img/sites/svpg.jpeg)
-
-^ 5500 x 1600 px
-Also 0.5MB CSS
-
----
-
-## blog.invisionapp.com
-## **90 requests, 8.6MB**
-## 7.6MB Images
-
-![](img/sites/invision.jpeg)
-
-^ Wrong format
-
----
-
-## uie.com
-## **30 requests, 0.4MB**
-## 0.2MB background image
-
-![](img/sites/uie.jpeg)
-
-^ 1500 x 1400 image displayed at 250 x 200
-
----
-
-## blog.marvelapp.com
-## **50 requests, 5.8MB**
-## 5.2MB images
-
-![](img/sites/marvelapp.jpeg)
-
-^ huge images used as thumbs
-
----
-
-## takealot.com
-## **140 requests, 1.1MB**
-## 0.3MB JS, 0.8MB images
-
-![](img/sites/takealot.jpeg)
-
-^ PNGs, not JPGs
-
----
-
-## loot.co.za
-## **250 requests, 1.9MB**
-## 1.7MB images, 0.2MB JS
-
-![](img/sites/loot.jpeg)
-
-^ 210 images
-
----
-
-## computicket.com
-## **210 requests, 1.8MB**
-## 0.4MB JS, 1.2MB images
-
-![](img/sites/computicket.jpeg)
-
-^ "online.computicket.com/web"
-6-piece, big, carousel 0.3MB
+# **News-y sites**
 
 ---
 
@@ -499,23 +402,81 @@ Ajax for stock ticker? And it keeps going...
 
 ---
 
-## capetown.gov.za
-## **150 requests, 2.1MB**
-## 1.6MB JS, 0.5MB images
-
-![](img/sites/capetown.gov.za.jpeg)
-
-^ 0.3MB is home hero
+# **UX sites**
 
 ---
 
-## westerncape.gov.za
-## **90 requests, 0.6MB**
-## 0.15MB JS, 0.3MB
+## uxbooth.com
+## **60 requests, 0.8MB**
+## 0.3MB JS, 0.2MB CSS
 
-![](img/sites/westerncape.gov.za.jpeg)
+![](img/sites/uxbooth.jpeg)
 
-^ 00.15 small, but: WHY is it there at all?
+---
+
+## svpg.com
+## **70 requests, 2.5MB**
+## 0.7MB header image
+
+![](img/sites/svpg.jpeg)
+
+^ 5500 x 1600 px
+Also 0.5MB CSS
+
+---
+
+## uie.com
+## **30 requests, 0.4MB**
+## 0.2MB background image
+
+![](img/sites/uie.jpeg)
+
+^ 1500 x 1400 image displayed at 250 x 200
+
+---
+
+## nngroup.com
+## **40 requests, 0.6MB**
+## 0.3MB Images
+
+![](img/sites/nngroup.jpeg)
+
+^ Format
+Loading some that are shown
+
+---
+
+## blog.marvelapp.com
+## **50 requests, 5.8MB**
+## 5.2MB images
+
+![](img/sites/marvelapp.jpeg)
+
+^ huge images used as thumbs
+
+---
+
+## blog.invisionapp.com
+## **90 requests, 8.6MB**
+## 7.6MB Images
+
+![](img/sites/invision.jpeg)
+
+^ Wrong format
+
+---
+
+## medium.com
+## **50 requests, 0.9MB**
+## 0.5MB JS
+
+![](img/sites/medium.jpeg)
+
+^ text and images!
+
+---
+
+# **E-commerce-y sites**
 
 ---
 
@@ -556,6 +517,61 @@ Ajax for stock ticker? And it keeps going...
 ![](img/sites/cellc.jpeg)
 
 ^ 1MB images in carousel
+
+---
+
+## takealot.com
+## **140 requests, 1.1MB**
+## 0.3MB JS, 0.8MB images
+
+![](img/sites/takealot.jpeg)
+
+^ PNGs, not JPGs
+
+---
+
+## loot.co.za
+## **250 requests, 1.9MB**
+## 1.7MB images, 0.2MB JS
+
+![](img/sites/loot.jpeg)
+
+^ 210 images
+
+---
+
+## computicket.com
+## **210 requests, 1.8MB**
+## 0.4MB JS, 1.2MB images
+
+![](img/sites/computicket.jpeg)
+
+^ "online.computicket.com/web"
+6-piece, big, carousel 0.3MB
+
+---
+
+# **Government sites**
+
+---
+
+## capetown.gov.za
+## **150 requests, 2.1MB**
+## 1.6MB JS, 0.5MB images
+
+![](img/sites/capetown.gov.za.jpeg)
+
+^ 0.3MB is home hero
+
+---
+
+## westerncape.gov.za
+## **90 requests, 0.6MB**
+## 0.15MB JS, 0.3MB
+
+![](img/sites/westerncape.gov.za.jpeg)
+
+^ 00.15 small, but: WHY is it there at all?
 
 ---
 
