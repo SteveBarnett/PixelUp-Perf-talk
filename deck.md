@@ -85,6 +85,8 @@ based on GNI per capita
 
 ![](img/south-african-flag.png)
 
+^ Which is more than 5
+
 ---
 
 ## 70% of South Africans
@@ -103,6 +105,7 @@ based on GNI per capita
 ![](img/south-african-flag.png)
 
 ^ More expensive
+Not always not a choice (looking for a job, etc.)
 
 ---
 
@@ -224,13 +227,6 @@ Lower CPU, RAM. Struggle with lots of JS from fancy widgets.
 
 ---
 
-## Google
-
-## **0.5s slower load time**
-## 25% less searches
-
----
-
 ## Financial Times
 
 ## **1s slower load time**
@@ -330,7 +326,7 @@ Lower CPU, RAM. Struggle with lots of JS from fancy widgets.
 
 ---
 
-# **3. What affects it?**
+# 😱😱😱
 
 ^ Now you're appropriately horrified, let's look at some suspects
 
@@ -351,18 +347,18 @@ Cost Benefit analysis
 ---
 
 ## dailymaverick.co.za
-## **230 requests, 2.3MB**
-## 0.7MB JS, 0.3MB HTML, 1.2MB images
+## **300 requests, 3.4MB**
+## 1.5MB JS, 0.4MB HTML, 1.3MB images
 
 ![](img/sites/dailymaverick.jpg)
 
-^ 178 images
+^ JS! Tracking, ads, what else?
 
 ---
 
 ## iol.co.za
-## **120 requests, 2.2MB**
-## 0.8MB JS, 1.4MB images
+## **180 requests, 3.2MB**
+## 1.3MB JS, 1.8MB images
 
 ![](img/sites/iol.jpeg)
 
@@ -371,18 +367,18 @@ Cost Benefit analysis
 ---
 
 ## news24.com
-## **170 requests, 1.8MB**
-## 0.3MB JS, 0.3MB CSS, 1.2MB images
+## **50 requests, 0.5MB**
+## 0.2MB JS
 
 ![](img/sites/news24.jpeg)
 
-^
+^ Mobile sniffed
 
 ---
 
 ## mg.co.za
-## **280 requests, 7MB**
-## 0.5MB JS, 6.2MB images
+## **180 requests, 8MB**
+## 1MB JS, 6.8MB images
 
 ![](img/sites/mg.jpeg)
 
@@ -392,13 +388,13 @@ Cost Benefit analysis
 ---
 
 ## timeslive.co.za
-## **600 requests, 4.6MB**
-## 3.5MB images, 350 Ajax
+## **80 requests, 1.4MB**
+## 1.1MB images
 
 ![](img/sites/timeslive.jpeg)
 
-^ 189 images
-Ajax for stock ticker? And it keeps going...
+^ mobile sniffed
+
 
 ---
 
@@ -407,15 +403,17 @@ Ajax for stock ticker? And it keeps going...
 ---
 
 ## uxbooth.com
-## **60 requests, 0.8MB**
-## 0.3MB JS, 0.2MB CSS
+## **20 requests, 0.5MB**
+## 0.3MB CSS
 
 ![](img/sites/uxbooth.jpeg)
+
+^ No pattern library?
 
 ---
 
 ## svpg.com
-## **70 requests, 2.5MB**
+## **60 requests, 2.1MB**
 ## 0.7MB header image
 
 ![](img/sites/svpg.jpeg)
@@ -426,7 +424,7 @@ Also 0.5MB CSS
 ---
 
 ## uie.com
-## **30 requests, 0.4MB**
+## **20 requests, 0.5MB**
 ## 0.2MB background image
 
 ![](img/sites/uie.jpeg)
@@ -436,19 +434,19 @@ Also 0.5MB CSS
 ---
 
 ## nngroup.com
-## **40 requests, 0.6MB**
+## **40 requests, 0.7MB**
 ## 0.3MB Images
 
 ![](img/sites/nngroup.jpeg)
 
 ^ Format
-Loading some that are shown
+Loading some that aren't shown
 
 ---
 
 ## blog.marvelapp.com
-## **50 requests, 5.8MB**
-## 5.2MB images
+## **50 requests, 6MB**
+## 5.6MB images
 
 ![](img/sites/marvelapp.jpeg)
 
@@ -457,8 +455,8 @@ Loading some that are shown
 ---
 
 ## blog.invisionapp.com
-## **90 requests, 8.6MB**
-## 7.6MB Images
+## **150 requests, 9.1MB**
+## 7.7MB Images
 
 ![](img/sites/invision.jpeg)
 
@@ -481,8 +479,8 @@ Loading some that are shown
 ---
 
 ## telkom.co.za
-## **100 requests, 1.9MB**
-## 0.4MB JS, 1.3MB images
+## **90 requests, 0.9MB**
+## 0.5MB JS
 
 ![](img/sites/telkom.jpeg)
 
@@ -491,17 +489,17 @@ Loading some that are shown
 ---
 
 ## vodacom.co.za
-## **90 requests, 0.8MB**
+## **130 requests, 0.9MB**
 ## 0.3MB JS, 0.3MB images
 
 ![](img/sites/vodacom.jpeg)
 
-^ 50 images
+^ lots of images
 
 ---
 
 ## mtn.co.za
-## **137 requests, 2.4MB**
+## **140 requests, 2.4MB**
 ## 0.5MB JS, 1.7MB images
 
 ![](img/sites/mtn.jpeg)
@@ -510,19 +508,19 @@ Loading some that are shown
 
 ---
 
-## Cell C
-## **170 requests, 2.7MB**
-##  0.8MB JS, 1.6MB images
+## cellc.co.za
+## **130 requests, 1.8MB**
+##  0.7MB JS, 0.9MB images
 
 ![](img/sites/cellc.jpeg)
 
-^ 1MB images in carousel
+^ images in carousel
 
 ---
 
 ## takealot.com
-## **140 requests, 1.1MB**
-## 0.3MB JS, 0.8MB images
+## **100 requests, 0.8MB**
+## 0.3MB JS, 0.3MB images
 
 ![](img/sites/takealot.jpeg)
 
@@ -531,12 +529,12 @@ Loading some that are shown
 ---
 
 ## loot.co.za
-## **250 requests, 1.9MB**
-## 1.7MB images, 0.2MB JS
+## **110 requests, 1.5MB**
+## 1MB images, 0.3MB JS
 
 ![](img/sites/loot.jpeg)
 
-^ 210 images
+^ lots of images
 
 ---
 
@@ -547,7 +545,7 @@ Loading some that are shown
 ![](img/sites/computicket.jpeg)
 
 ^ "online.computicket.com/web"
-6-piece, big, carousel 0.3MB
+heavily mobile sniffed
 
 ---
 
@@ -556,8 +554,8 @@ Loading some that are shown
 ---
 
 ## capetown.gov.za
-## **150 requests, 2.1MB**
-## 1.6MB JS, 0.5MB images
+## **60 requests, 2.1MB**
+## 1.7MB JS, 0.4MB images
 
 ![](img/sites/capetown.gov.za.jpeg)
 
@@ -567,15 +565,19 @@ Loading some that are shown
 
 ## westerncape.gov.za
 ## **90 requests, 0.6MB**
-## 0.15MB JS, 0.3MB
+## 0.15MB JS, 0.3MB images
 
 ![](img/sites/westerncape.gov.za.jpeg)
 
-^ 00.15 small, but: WHY is it there at all?
+^ 0.15 small, but: WHY is it there at all?
 
 ---
 
 # **4. What can we do?**
+
+---
+
+# Fewer fancy widgets
 
 ---
 
@@ -589,7 +591,7 @@ millyun of ways
 
 ---
 
-### Tools
+### **Tools**
 ## PageSpeed Insights
 ## WebPageTest
 
