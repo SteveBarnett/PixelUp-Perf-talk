@@ -55,10 +55,6 @@ Weight: how many MBs
 
 ---
 
-# **Big,<br>wide,<br>stats**
-
----
-
 ## UN Broadband Commission
 ## **500MB of data**
 ## < 5% of monthly income
@@ -79,6 +75,15 @@ based on GNI per capita
 
 ---
 
+## 70% of South Africans
+## less than R6,000 / month
+
+![](img/south-african-flag.png)
+
+^ mantaray.co.za, 2016
+
+---
+
 ## South Africa (actually)
 ## **500MB of data**
 ## between 6% and 19%<br>of monthly income
@@ -89,31 +94,24 @@ based on GNI per capita
 
 ---
 
-## 70% of South Africans
-## less than R6,000 / month
+## People limit usage by buying small amounts
 
 ![](img/south-african-flag.png)
 
-^ mantaray.co.za, 2016
+^ Because it's expensive
 
 ---
 
-## People limit usage by buying small amounts
 ## **Convert airtime to data**
 ## That means<br>out of bundle rates
 
 ![](img/south-african-flag.png)
 
 ^ More expensive
-Not always not a choice (looking for a job, etc.)
-
----
-
-# :poop::poop::poop:
-
----
-
-# **Little,<br>narrow,<br>stats**
+Not always not a choice:
+looking for a job
+applying for a job
+LinkedIn
 
 ---
 
@@ -152,17 +150,6 @@ Wish the poop wasn't smiling
 
 ---
 
-## **South Africa**
-# Phones are<br>older, slower
-
-![](img/phones.jpg)
-
-^ featurephones on the way out, yes
-but cheap, low-power, smartphones
-Lower CPU, RAM. Struggle with lots of JS from fancy widgets.
-
----
-
 # **3. What's the effect?**
 
 ---
@@ -183,29 +170,6 @@ Lower CPU, RAM. Struggle with lots of JS from fancy widgets.
 
 ---
 
-## Google DoubleClick stats
-
-## **more than 3s to load**
-## 53% of visits abandoned
-
-^ "The need for mobile speed"
-
----
-
-## Amazon
-
-## **0.1s slower load time**
-## 1% decrease in revenue
-
----
-
-## Bing
-
-## **1s delay**
-## 2.8% drop in revenue
-
----
-
 ## Bing
 
 ## **2s delay**
@@ -213,26 +177,10 @@ Lower CPU, RAM. Struggle with lots of JS from fancy widgets.
 
 ---
 
-## Etsy
-
-## **160kb more images<br>on mobile**
-## 12% increase in<br>bounce rate
-
----
-
 ## Google
 
 ## **0.5s slower load time**
-## 25% less searches
-
----
-
-## Financial Times
-
-## **1s slower load time**
-## 4.9% drop in<br>articles read
-
-^ over a 7 day window
+## 25% fewer searches
 
 ---
 
@@ -245,52 +193,22 @@ Lower CPU, RAM. Struggle with lots of JS from fancy widgets.
 
 ---
 
+## Amazon
+
+## **0.1s slower load time**
+## 1% decrease in revenue
+
+---
+
+## Etsy
+
+## **160kb more images<br>on mobile**
+## 12% increase in<br>bounce rate
+
+---
+
 # **Yay!**
 # :smile:
-
----
-
-## Google DoubleClick stats
-
-## **Faster sites<br>(5s load time vs 19s)**
-## 70% longer<br>average session lengths
-
-^ 35% lower bounce rates
-
----
-
-## Netflix
-
-## **Turned on gzip**
-## 43% decrease in bandwidth bill
-
----
-
-## Mozilla
-
-## **2.2s faster load time**
-## 15.4% increase in download conversions
-
----
-
-## Yahoo
-
-## **0.5s faster load time**
-## 9% traffic increase
-
----
-
-## Walmart
-
-## **1s faster load time**
-## 2% increase in conversions
-
----
-
-## Walmart
-
-## **0.1s faster load time**
-## 1% increase in revenue
 
 ---
 
@@ -303,52 +221,52 @@ Lower CPU, RAM. Struggle with lots of JS from fancy widgets.
 
 ---
 
-## GQ
-
-## **80% faster load time**
-## 80% increase in traffic
-
----
-
 ## Instagram
 
 ## **30% smaller page size**
 ## increased impressions and interactions
-
-^ by 33% for the median and 50% for the 95th percentile for the main endpoint).
 
 ---
 
 ## AliExpress
 
 ## **36% faster load time**
-## 10.5% increase in orders
+## 11% increase in orders
 
 ---
 
-# 😱😱😱
+## **Local Perf Perps**
+## 😱😱😱
 
 ^ Now you're appropriately horrified, let's look at some suspects
 
 ---
 
 ## Site
-## **Stat**
+## **Stats**
 ## Why
 
-^ Like we looked at site, state, effect a moment ago
+^ Mostly local sites, with some guest stars
+Like we looked at site, state, effect a moment ago
 "Ish" stats, tested on 3G using Chrome's Throttling
 Cost Benefit analysis
 
 ---
 
-# **News-y sites**
+## **The stats**
+
+## Requests
+## MB
+
+^ Because speed and weight
+request: blocking, round trip
+what's a good number of requests / size?
 
 ---
 
 ## dailymaverick.co.za
 ## **300 requests, 3.4MB**
-## 1.5MB JS, 0.4MB HTML, 1.3MB images
+## 1.5MB JS, 1.3MB images
 
 ![](img/sites/dailymaverick.jpg)
 
@@ -356,101 +274,15 @@ Cost Benefit analysis
 
 ---
 
-## iol.co.za
-## **180 requests, 3.2MB**
-## 1.3MB JS, 1.8MB images
-
-![](img/sites/iol.jpeg)
-
-^ Big images, shown small
-
----
-
-## news24.com
-## **50 requests, 0.5MB**
-## 0.2MB JS
-
-![](img/sites/news24.jpeg)
-
-^ Mobile sniffed
-
----
-
 ## mg.co.za
 ## **180 requests, 8MB**
-## 1MB JS, 6.8MB images
+## 6.8MB images
 
 ![](img/sites/mg.jpeg)
 
 ^ "high quality" JPGs, not large size?
 120 images
-
----
-
-## timeslive.co.za
-## **80 requests, 1.4MB**
-## 1.1MB images
-
-![](img/sites/timeslive.jpeg)
-
-^ mobile sniffed
-
-
----
-
-# **UX sites**
-
----
-
-## uxbooth.com
-## **20 requests, 0.5MB**
-## 0.3MB CSS
-
-![](img/sites/uxbooth.jpeg)
-
-^ No pattern library?
-
----
-
-## svpg.com
-## **60 requests, 2.1MB**
-## 0.7MB header image
-
-![](img/sites/svpg.jpeg)
-
-^ 5500 x 1600 px
-Also 0.5MB CSS
-
----
-
-## uie.com
-## **20 requests, 0.5MB**
-## 0.2MB background image
-
-![](img/sites/uie.jpeg)
-
-^ 1500 x 1400 image displayed at 250 x 200
-
----
-
-## nngroup.com
-## **40 requests, 0.7MB**
-## 0.3MB Images
-
-![](img/sites/nngroup.jpeg)
-
-^ Format
-Loading some that aren't shown
-
----
-
-## blog.marvelapp.com
-## **50 requests, 6MB**
-## 5.6MB images
-
-![](img/sites/marvelapp.jpeg)
-
-^ huge images used as thumbs
+lead into UX sites
 
 ---
 
@@ -474,40 +306,6 @@ Loading some that aren't shown
 
 ---
 
-# **E-commerce-y sites**
-
----
-
-## telkom.co.za
-## **90 requests, 0.9MB**
-## 0.5MB JS
-
-![](img/sites/telkom.jpeg)
-
-^ 52 images
-
----
-
-## vodacom.co.za
-## **130 requests, 0.9MB**
-## 0.3MB JS, 0.3MB images
-
-![](img/sites/vodacom.jpeg)
-
-^ lots of images
-
----
-
-## mtn.co.za
-## **140 requests, 2.4MB**
-## 0.5MB JS, 1.7MB images
-
-![](img/sites/mtn.jpeg)
-
-^ 0.6MB for one very bad image
-
----
-
 ## cellc.co.za
 ## **130 requests, 1.8MB**
 ##  0.7MB JS, 0.9MB images
@@ -518,41 +316,6 @@ Loading some that aren't shown
 
 ---
 
-## takealot.com
-## **100 requests, 0.8MB**
-## 0.3MB JS, 0.3MB images
-
-![](img/sites/takealot.jpeg)
-
-^ PNGs, not JPGs
-
----
-
-## loot.co.za
-## **110 requests, 1.5MB**
-## 1MB images, 0.3MB JS
-
-![](img/sites/loot.jpeg)
-
-^ lots of images
-
----
-
-## computicket.com
-## **210 requests, 1.8MB**
-## 0.4MB JS, 1.2MB images
-
-![](img/sites/computicket.jpeg)
-
-^ "online.computicket.com/web"
-heavily mobile sniffed
-
----
-
-# **Government sites**
-
----
-
 ## capetown.gov.za
 ## **60 requests, 2.1MB**
 ## 1.7MB JS, 0.4MB images
@@ -560,16 +323,10 @@ heavily mobile sniffed
 ![](img/sites/capetown.gov.za.jpeg)
 
 ^ 0.3MB is home hero
-
----
-
-## westerncape.gov.za
-## **90 requests, 0.6MB**
-## 0.15MB JS, 0.3MB images
-
-![](img/sites/westerncape.gov.za.jpeg)
-
-^ 0.15 small, but: WHY is it there at all?
+older, slower, phones
+70% on less than R6,000 / month
+tourist on roaming rates
+health, education, water, electricity, Financial relief, jobs
 
 ---
 
@@ -578,6 +335,14 @@ heavily mobile sniffed
 ---
 
 # Fewer fancy widgets
+
+^ animations, transitions
+
+---
+
+# Fewer, smaller, images
+
+^ autoplaying videos
 
 ---
 
@@ -600,6 +365,7 @@ millyun of ways
 ^ PSI: not because OMG Google :100:, but because good advice
 use as checklist
 WPT: lots of stats
+"live" demo
 
 ---
 
@@ -617,3 +383,5 @@ WPT: lots of stats
 ## steve<br>@naga.co.za
 
 ![](img/dani.jpg) ![](img/steve.jpg)
+
+^ Thanks!
