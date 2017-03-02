@@ -48,6 +48,7 @@ Where work, What do
 ^ Simplified version
 E.g. Speed has perceived vs actual
 Weight: how many MBs
+Smaller better
 
 ---
 
@@ -198,6 +199,8 @@ Wish the poop wasn't smiling
 ## **0.1s slower load time**
 ## 1% decrease in revenue
 
+^ Small percent, large number
+
 ---
 
 ## Etsy
@@ -218,6 +221,7 @@ Wish the poop wasn't smiling
 ## large increase in traffic in areas with poor connectivity
 
 ^ Southeast Asia, South America, Africa, and Siberia.
+Before, the page wouldn't load. Now it does!
 
 ---
 
@@ -235,7 +239,7 @@ Wish the poop wasn't smiling
 
 ---
 
-## **Local Perf Perps**
+## **Perf Perps**
 ## 😱😱😱
 
 ^ Now you're appropriately horrified, let's look at some suspects
@@ -259,18 +263,19 @@ Cost Benefit analysis
 ## MB
 
 ^ Because speed and weight
-request: blocking, round trip
-what's a good number of requests / size?
+request: blocking, round trip. what's a good number of requests / size?
+MB: average is 2.5MB. Not a **target**!
 
 ---
 
 ## dailymaverick.co.za
 ## **300 requests, 3.4MB**
-## 1.5MB JS, 1.3MB images
+## 1.5MB JS
 
 ![](img/sites/dailymaverick.jpg)
 
-^ JS! Tracking, ads, what else?
+^ JS! Tracking, ads, fancy widgets?
+Also 1.3MB images
 
 ---
 
@@ -308,17 +313,18 @@ lead into UX sites
 
 ## cellc.co.za
 ## **130 requests, 1.8MB**
-##  0.7MB JS, 0.9MB images
+## 0.9MB images
 
 ![](img/sites/cellc.jpeg)
 
 ^ images in carousel
+Also 0.7MB JS
 
 ---
 
 ## capetown.gov.za
 ## **60 requests, 2.1MB**
-## 1.7MB JS, 0.4MB images
+## 1.7MB JS
 
 ![](img/sites/capetown.gov.za.jpeg)
 
@@ -351,8 +357,7 @@ health, education, water, electricity, Financial relief, jobs
 ![](img/speedcurve.jpg)
 
 ^ FED because that's where it makes the most differnece
-ask audience
-millyun of ways
+speedcurve.com, sitespeed.io
 
 ---
 
@@ -362,8 +367,7 @@ millyun of ways
 
 ![](img/tools.jpg)
 
-^ PSI: not because OMG Google :100:, but because good advice
-use as checklist
+^ PSI: not because OMG Google :100:, but because good advice. use as checklist
 WPT: lots of stats
 "live" demo
 
