@@ -354,22 +354,40 @@ health, education, water, electricity, Financial relief, jobs
 
 ## Measure front-end performance
 
-![](img/speedcurve.jpg)
-
 ^ FED because that's where it makes the most differnece
 speedcurve.com, sitespeed.io
 
 ---
 
-### **Tools**
+### **Measure performance**
+
+## Your browser's Dev Tools:<br />"Network" panel
+
+![110%](img/devtools-network.png)
+
+^ Lots of stuff there!
+
+---
+
+### **Measure performance**
+
 ## PageSpeed Insights
 ## WebPageTest
 
-![](img/tools.jpg)
-
 ^ PSI: not because OMG Google :100:, but because good advice. use as checklist
 WPT: lots of stats
-"live" demo
+
+![](img/pagespeed.jpg)
+
+---
+
+### **Measure performance**
+
+## speedcurve.com
+
+![](img/speedcurve.jpg)
+
+^ Monitoring service
 
 ---
 
