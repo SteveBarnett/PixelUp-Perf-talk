@@ -27,14 +27,18 @@ Where work, What do
 
 ### **Agenda**
 
-## 1. What is perf?
-## 2. Why does it matter?
-## 3. What's the effect?
-## 4. What can we do?
+## 1. What?
+## 2. So what?
+## 4. Now what?
+
+^ 1. What (is perf)?
+2. So what?
+3. So what (Part 2)?
+4. Now what (can we do)?
 
 ---
 
-# **1. What is perf?**
+# **1. What?**
 
 ---
 
@@ -52,7 +56,7 @@ Smaller better
 
 ---
 
-# **2. Why does it matter?**
+# **2. So what?**
 
 ---
 
@@ -151,7 +155,7 @@ Wish the poop wasn't smiling
 
 ---
 
-# **3. What's the effect?**
+# **3. So what?** (Part 2)
 
 ---
 
@@ -339,7 +343,7 @@ health, education, water, electricity, Financial relief, jobs
 
 ---
 
-# **4. What can we do?**
+# **4. Now what?**
 
 ---
 
