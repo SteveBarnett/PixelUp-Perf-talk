@@ -265,6 +265,8 @@ Cost Benefit analysis
 ^ Because speed and weight
 request: blocking, round trip. what's a good number of requests / size?
 MB: average is 2.5MB. Not a **target**!
+Average requests: about 100 (!)
+Cost Benefit analysis
 
 ---
 
@@ -276,6 +278,7 @@ MB: average is 2.5MB. Not a **target**!
 
 ^ JS! Tracking, ads, fancy widgets?
 Also 1.3MB images
+Cost Benefit analysis
 
 ---
 
@@ -342,13 +345,15 @@ health, education, water, electricity, Financial relief, jobs
 
 # Fewer fancy widgets
 
-^ animations, transitions
+^ also fewer sprockets and geegaws
+animations, transitions
+
 
 ---
 
 # Fewer, smaller, images
 
-^ autoplaying videos
+^ autoplaying videos :rage:
 
 ---
 
