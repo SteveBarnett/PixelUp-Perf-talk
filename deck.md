@@ -8,9 +8,9 @@ How does that effect the design
 
 ---
 
-## Costs users **Time**
-## Cost users **Money**
-## Costs us **Money**
+## Save users **Time**
+## Save users **Money**
+## Save us **Money**
 
 ![](img/money.jpg)
 
