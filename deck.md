@@ -42,17 +42,29 @@ Where work, What do
 
 ---
 
-## **Performance**
+# (Front-end)<br/>Performance
+
+^ What's Front-end?
+(e.g. vs back-end)
+Simplified version of perf
+
+---
 
 # 1. Speed
+
+![](img/speed.jpg)
+
+^ Speed has perceived vs actual
+
+---
+
 # 2. Weight
 
-![](img/hippo.jpg)
+![](img/weight.jpg)
 
-^ Simplified version
-E.g. Speed has perceived vs actual
-Weight: how many MBs
+^ Weight: how many MBs
 Smaller better
+Initial page load vs later
 
 ---
 
