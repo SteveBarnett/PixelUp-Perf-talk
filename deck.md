@@ -70,93 +70,72 @@ Initial page load vs later
 
 # **2. So what?**
 
----
-
-## UN Broadband Commission
-## **500MB of data**
-## < 5% of monthly income
-
-^ affordability target
+^ Why should you care about your site's speed and weight?
+A bit slow, a bit chunky, so what?
+Gonna hit you in the feels
 
 ---
 
-## South Africa
-## **500MB of data**
-## 1.5% of monthly income
+![](img/bongani.jpg)
 
-![](img/south-african-flag.png)
-
-^ **average** income
-based on GNI per capita
-**More than half** pop earn **less than half** of that
+^ Bongani, Persona
+Who knows / uses Personas?
 
 ---
 
-## 70% of South Africans
-## less than R6,000 / month
+## **Bongani**
+## Cashier at Pluck n Pay
+## **R5,000 / month**
 
-![](img/south-african-flag.png)
+![](img/bongani.jpg)
 
-^ mantaray.co.za, 2016
-
----
-
-## South Africa (actually)
-## **500MB of data**
-## between 6% and 19%<br>of monthly income
-
-![](img/south-african-flag.png)
-
-^ Which is more than 5
+^ But data's cheap, right?
+Persona: edge cases / worst case scenario!
 
 ---
 
-## People limit usage by buying small amounts
+## "I want to look for<br/>a new job."
 
-![](img/south-african-flag.png)
+![](img/bongani.jpg)
 
-^ Because it's expensive
-
----
-
-## **Convert airtime to data**
-## That means<br>out of bundle rates
-
-![](img/south-african-flag.png)
-
-^ More expensive
-Not always not a choice:
-looking for a job
-applying for a job
-LinkedIn
-
----
-
-## Vodacom pre-paid
-## **R9 for 15MB**
-## R0.60 per MB
-
-![](img/vodacom-data.jpg)
+^ What's that going to cost her?
 
 ---
 
 ## httparchive.org
 ## **Average page size: 2.5MB**
-## R1.5 per page
 
 ![](img/httparchive-chart.png)
 
 ^ Doesn't seem so bad...
+How much does that cost?
 
 ---
 
-## Cashier R5,000 / month
+## Vodacom pre-paid
+## **About R1.5 per page**
+
+![](img/vodacom-data.jpg)
+
+^ R9 for 15MB
+R0.60 per MB
+People limit usage by buying small amounts
+Because it's expensive
+Convert airtime to data: that means out of bundle rates
+
+---
+
+## Bongani looks for a job
 ## **10 pages a day**
 ## 9% of daily income
 
 ![](img/bongani.jpg)
 
-^ which is between 6 and 19
+---
+
+## Whisky
+## Tango
+## Foxtrot?
 
 ---
 
