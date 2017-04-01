@@ -343,27 +343,64 @@ Tourist on roaming rates (because FICA)
 
 ---
 
-# Fewer fancy widgets
+## **Now what?**
+# Use less stuff
 
-^ also fewer sprockets and geegaws
-animations, transitions
-
----
-
-# Fewer, smaller, images
-
-^ autoplaying videos :rage:
+^ Mental cost-benefit analysis
 
 ---
 
-# Measure front-end performance
-
-^ FED because that's where it makes the most differnece
-speedcurve.com, sitespeed.io
+# **Images**
+## Threat Level: :scream:
 
 ---
 
-### **Measure front-end performance**
+# **Carousels**
+## Threat Level: :scream::scream:
+
+---
+
+# **Video**
+## Threat Level: :scream::scream::scream:
+
+---
+
+# **Auto-playing Video**
+## Threat Level: :skull: + :rage:
+
+^ Not saying you're a monster.
+But you should be ashamed of yourself.
+😬
+
+---
+
+# **Animations**
+## Threat Level: :scream: or :scream::scream:
+
+---
+
+# **Custom UI**
+^ widget, sprockets, geegaws, doodads
+
+## Threat Level: :scream: to :scream::scream::scream:
+
+---
+
+# **Tracking, Ads**
+
+## Threat Level: :scream::scream::scream:
+
+^ Especially the cumulative effect
+Yes, #itscomplicated, but...
+
+---
+
+## **Now what?**
+# Measure performance
+
+^ FED because that's where it makes the most difference
+
+---
 
 ## Your browser's Dev Tools:<br />"Network" panel
 
@@ -372,8 +409,6 @@ speedcurve.com, sitespeed.io
 ^ Lots of stuff there!
 
 ---
-
-### **Measure front-end performance**
 
 ## PageSpeed Insights
 ## WebPageTest
@@ -385,8 +420,6 @@ WPT: lots of stats
 
 ---
 
-### **Measure front-end performance**
-
 ## speedcurve.com
 
 ![](img/speedcurve.jpg)
@@ -395,7 +428,7 @@ WPT: lots of stats
 
 ---
 
-# :boom:
+# **#perfmatters**
 
 ---
 
