@@ -33,7 +33,7 @@ Where work, What do
 
 ^ 1. What (is perf)?
 2. So what?
-3. So what (Part 2)?
+So what (Part 2)?
 4. Now what (can we do)?
 
 ---
@@ -146,12 +146,11 @@ Wish the poop wasn't smiling
 
 ---
 
-# **3. So what?** (Part 2)
+# **2. So what?** (Part 2)
 
----
-
-# wpostats.com
-## (mostly)
+^ wpostats.com (mostly)
+"Personas are made up? What about the real world?"
+"Also, I sell organic artisinal diamonds, my customers are rich!"
 
 ---
 
@@ -213,7 +212,7 @@ Wish the poop wasn't smiling
 ## YouTube
 
 ## **90% smaller page size**
-## large increase in traffic in areas with poor connectivity
+## large increase in traffic<br>in areas with<br>poor connectivity
 
 ^ Southeast Asia, South America, Africa, and Siberia.
 Before, the page wouldn't load. Now it does!
