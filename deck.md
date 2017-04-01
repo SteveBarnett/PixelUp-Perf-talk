@@ -29,7 +29,7 @@ Where work, What do
 
 ## 1. What?
 ## 2. So what?
-## 4. Now what?
+## 3. Now what?
 
 ^ 1. What (is perf)?
 2. So what?
