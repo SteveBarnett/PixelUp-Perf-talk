@@ -373,6 +373,18 @@ WPT: lots of stats
 
 ---
 
+# :boom:
+
+---
+
+## Save users **Time**
+## Save users **Money**
+## Save us **Money**
+
+![](img/money.jpg)
+
+---
+
 ## **Resources**
 
 ## naga.co.za/pup2017
