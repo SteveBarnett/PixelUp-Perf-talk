@@ -32,8 +32,7 @@ Where work, What do
 ## 3. Now what?
 
 ^ 1. What (is perf)?
-2. So what?
-So what (Part 2)?
+2. So what? (Why should we care?)
 4. Now what (can we do)?
 
 ---
@@ -75,7 +74,6 @@ Initial page load vs later
 ^ **hit you in the feels**
 Why should you care about your site's speed and weight?
 A bit slow, a bit chunky, so what?
-Gonna hit you in the feels
 
 ---
 
@@ -101,7 +99,8 @@ Persona: edge cases / worst case scenario!
 
 ![](img/bongani.jpg)
 
-^ What's that going to cost her?
+^ No computer, so it's gonna be on her phone.
+What's that going to cost her?
 
 ---
 
@@ -252,7 +251,7 @@ look, it could happen to you
 
 ^ Mostly local sites, with some guest stars
 Like we looked at site, state, effect a moment ago
-"Ish" stats, tested on 3G using Chrome's Throttling
+"Ish" stats, tested on 3G using WebPageTest
 Cost Benefit analysis
 
 ---
@@ -275,7 +274,7 @@ Cost Benefit analysis
 ## **310 requests, 3.6MB, 40s**
 ## 1.7MB JS:<br>ads and tracking
 
-![](img/sites/dailymaverick.jpg)
+![fit](img/sites/dailymaverick.jpg)
 
 ^ News is text and images.
 No fancy widgets. Tracking, ads.
@@ -288,7 +287,7 @@ Cost Benefit analysis
 ## **290 requests, 9.9MB, 62s**
 ## 8.2MB images:<br>lots, large, HD
 
-![](img/sites/mg.jpeg)
+![fit](img/sites/mg.jpg)
 
 ^ "high quality" JPGs, not large size?
 160 images
@@ -299,7 +298,7 @@ Cost Benefit analysis
 ## **90 requests, 3.7MB, 30s**
 ## 0.5MB JS: for what?<br>2.9MB images: 67, really?
 
-![](img/sites/medium.jpeg)
+![fit](img/sites/medium.jpg)
 
 ^ text and images!
 
@@ -309,7 +308,7 @@ Cost Benefit analysis
 ## **150 requests, 2MB, 33s**
 ## 1MB images: carousel :scream:
 
-![](img/sites/cellc.jpeg)
+![fit](img/sites/cellc.jpg)
 
 ^ Remember Bongani?
 Also 0.7MB JS
@@ -320,7 +319,7 @@ Also 0.7MB JS
 ## **70 requests, 2.0MB, 20s**
 ## 1.7MB JS for animations
 
-![](img/sites/capetown.gov.za.jpeg)
+![fit](img/sites/capetown.gov.za.jpg)
 
 ^ Remember Bongani?
 Biggest JS: 0.3MB, 13,000 lines, things like animation
@@ -413,11 +412,11 @@ WPT: lots of stats
 
 ---
 
-## **Speaker spam**
+## **Thanks! :v:**
 
 ## danielle.lisa.eriksen<br>@gmail.com
 ## steve<br>@naga.co.za
 
 ![](img/dani.jpg) ![](img/steve.jpg)
 
-^ Thanks!
+^ Email or on meetup
