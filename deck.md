@@ -1,10 +1,17 @@
 theme: Fira, 1
 
-# Performance
-## **#perfmatters**
+# (Front-end)<br/>Performance
 
 ^ (Front-end) That's us.
 How does that effect the design
+
+---
+
+# **#perfmatters**
+
+^ It's a thing.
+Look it up on twitter.
+Think about perf more.
 
 ---
 
