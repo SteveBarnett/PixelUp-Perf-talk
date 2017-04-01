@@ -256,6 +256,7 @@ Cost Benefit analysis
 
 ## Requests
 ## MB
+## Time
 
 ^ Because speed and weight
 request: blocking, round trip. what's a good number of requests / size?
@@ -266,42 +267,32 @@ Cost Benefit analysis
 ---
 
 ## dailymaverick.co.za
-## **300 requests, 3.4MB**
-## 1.5MB JS
+## **310 requests, 3.6MB, 40s**
+## 1.7MB JS:<br>ads and tracking
 
 ![](img/sites/dailymaverick.jpg)
 
-^ JS! Tracking, ads, fancy widgets?
-Also 1.3MB images
+^ News is text and images.
+No fancy widgets. Tracking, ads.
+Also 1.4MB images
 Cost Benefit analysis
 
 ---
 
 ## mg.co.za
-## **180 requests, 8MB**
-## 6.8MB images
+## **290 requests, 9.9MB, 62s**
+## 8.2MB images:<br>lots, large, HD
 
 ![](img/sites/mg.jpeg)
 
 ^ "high quality" JPGs, not large size?
-120 images
-lead into UX sites
-
----
-
-## blog.invisionapp.com
-## **150 requests, 9.1MB**
-## 7.7MB Images
-
-![](img/sites/invision.jpeg)
-
-^ Wrong format
+160 images
 
 ---
 
 ## medium.com
-## **50 requests, 0.9MB**
-## 0.5MB JS
+## **90 requests, 3.7MB, 30s**
+## 0.5MB JS: for what?<br>2.9MB images: 67, really?
 
 ![](img/sites/medium.jpeg)
 
@@ -310,27 +301,28 @@ lead into UX sites
 ---
 
 ## cellc.co.za
-## **130 requests, 1.8MB**
-## 0.9MB images
+## **150 requests, 2MB, 33s**
+## 1MB images: carousel :scream:
 
 ![](img/sites/cellc.jpeg)
 
-^ images in carousel
+^ Remember Bongani?
 Also 0.7MB JS
 
 ---
 
 ## capetown.gov.za
-## **60 requests, 2.1MB**
-## 1.7MB JS
+## **70 requests, 2.0MB, 20s**
+## 1.7MB JS for animations
 
 ![](img/sites/capetown.gov.za.jpeg)
 
-^ 0.3MB is home hero
-older, slower, phones
-70% on less than R6,000 / month
-tourist on roaming rates
+^ Remember Bongani?
+Biggest JS: 0.3MB, 13,000 lines, things like animation
 health, education, water, electricity, Financial relief, jobs
+older, slower, phones
+Tourist on roaming rates (because FICA)
+0.3MB is hero
 
 ---
 
