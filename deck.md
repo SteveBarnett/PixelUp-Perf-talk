@@ -40,6 +40,8 @@ So what (Part 2)?
 
 # **1. What?**
 
+^ **FED up**
+
 ---
 
 # (Front-end)<br/>Performance
@@ -70,7 +72,8 @@ Initial page load vs later
 
 # **2. So what?**
 
-^ Why should you care about your site's speed and weight?
+^ **hit you in the feels**
+Why should you care about your site's speed and weight?
 A bit slow, a bit chunky, so what?
 Gonna hit you in the feels
 
@@ -148,7 +151,8 @@ Wish the poop wasn't smiling
 
 # **2. So what?** (Part 2)
 
-^ wpostats.com (mostly)
+^ **time is money**
+wpostats.com (mostly)
 "Personas are made up? What about the real world?"
 "Also, I sell organic artisinal diamonds, my customers are rich!"
 
@@ -235,7 +239,8 @@ Before, the page wouldn't load. Now it does!
 
 # **2. So What?** (Part 3)
 
-^ Perf Perps
+^ **not me!**
+Perf Perps
 Not blame game, more like:
 look, it could happen to you
 
@@ -328,13 +333,14 @@ Tourist on roaming rates (because FICA)
 
 # **4. Now what?**
 
+^ **What can we do?**
+
 ---
 
 # Fewer fancy widgets
 
 ^ also fewer sprockets and geegaws
 animations, transitions
-
 
 ---
 
