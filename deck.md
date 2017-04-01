@@ -233,10 +233,11 @@ Before, the page wouldn't load. Now it does!
 
 ---
 
-## **Perf Perps**
-## 😱😱😱
+# **2. So What?** (Part 3)
 
-^ Now you're appropriately horrified, let's look at some suspects
+^ Perf Perps
+Not blame game, more like:
+look, it could happen to you
 
 ---
 
@@ -351,14 +352,14 @@ animations, transitions
 
 ---
 
-## Measure front-end performance
+# Measure front-end performance
 
 ^ FED because that's where it makes the most differnece
 speedcurve.com, sitespeed.io
 
 ---
 
-### **Measure performance**
+### **Measure front-end performance**
 
 ## Your browser's Dev Tools:<br />"Network" panel
 
@@ -368,7 +369,7 @@ speedcurve.com, sitespeed.io
 
 ---
 
-### **Measure performance**
+### **Measure front-end performance**
 
 ## PageSpeed Insights
 ## WebPageTest
@@ -380,7 +381,7 @@ WPT: lots of stats
 
 ---
 
-### **Measure performance**
+### **Measure front-end performance**
 
 ## speedcurve.com
 
@@ -394,11 +395,15 @@ WPT: lots of stats
 
 ---
 
-## Save users **Time**
-## Save users **Money**
-## Save us **Money**
+### **Zgenda**
 
-![](img/money.jpg)
+## 1. What?
+## 2. So what?
+## 3. Now what?
+
+^ 1. FED Perf is speed and weight
+2. We can save users time, money, save us money
+3. Think about perf when desiging, measure perf
 
 ---
 
