@@ -1,23 +1,15 @@
 theme: Fira, 1
 
-# (Front-end)<br/>Performance
-
-^ (Front-end) That's us.
-How does that effect the design
-
----
-
 # **#perfmatters**
 
 ^ It's a thing.
 Look it up on twitter.
-Think about perf more.
+Think about perf more in your day to day.
 
 ---
 
-## Save users **Time**
-## Save users **Money**
-## Save us **Money**
+## Save users<br>**time** and **money**
+## Save us<br>**time** and **money**
 
 ![](img/money.jpg)
 
@@ -46,7 +38,7 @@ Where work, What do
 
 # **1. What?**
 
-^ **FED up**
+^ The Front-end of what?
 
 ---
 
@@ -54,7 +46,7 @@ Where work, What do
 
 ^ What's Front-end?
 (e.g. vs back-end)
-Simplified version of perf
+Simplified version of perf because time
 
 ---
 
@@ -62,7 +54,8 @@ Simplified version of perf
 
 ![](img/speed.jpg)
 
-^ Speed has perceived vs actual
+^ (Speed has perceived vs actual)
+Save time for users
 
 ---
 
@@ -70,9 +63,10 @@ Simplified version of perf
 
 ![](img/weight.jpg)
 
-^ Weight: how many MBs
-Smaller better
-Initial page load vs later
+^ (Initial page load vs later)
+How much stuff
+Cheap for users
+Less stuff means less work means less time and money for us
 
 ---
 
@@ -81,13 +75,13 @@ Initial page load vs later
 ^ **hit you in the feels**
 Why should you care about your site's speed and weight?
 A bit slow, a bit chunky, so what?
+✋ who knows / uses Personas?
 
 ---
 
 ![](img/bongani.jpg)
 
-^ Bongani, Persona
-Who knows / uses Personas?
+^ Bongani, proto-Persona
 
 ---
 
@@ -97,8 +91,9 @@ Who knows / uses Personas?
 
 ![](img/bongani.jpg)
 
-^ But data's cheap, right?
-Persona: edge cases / worst case scenario!
+^ Persona: edge cases / worst case scenario!
+But data's cheap, right?
+She won't use the web! (FB!)
 
 ---
 
@@ -128,6 +123,7 @@ How much does that cost?
 
 ^ R9 for 15MB
 R0.60 per MB
+Usually worse than this
 People limit usage by buying small amounts
 Because it's expensive
 Convert airtime to data: that means out of bundle rates
@@ -135,10 +131,16 @@ Convert airtime to data: that means out of bundle rates
 ---
 
 ## Bongani looks for a job
-## **10 pages a day**
-## 9% of daily income
+## **10 pages a day: R15**
+## Salary for the day: R240
 
 ![](img/bongani.jpg)
+
+^ 5k / m
+=> 1.2k / week
+=> 240 day
+R15 out of R240 for the day
+5% of her income
 
 ---
 
@@ -175,26 +177,10 @@ wpostats.com (mostly)
 
 ---
 
-## Bing
-
-## **2s delay**
-## 4.3% drop in revenue
-
----
-
 ## Google
 
 ## **0.5s slower load time**
 ## 25% fewer searches
-
----
-
-## Financial Times
-
-## **3s slower load time**
-## 7.2% drop in<br>articles read
-
-^ further drops in engagement after a few weeks
 
 ---
 
@@ -257,7 +243,6 @@ look, it could happen to you
 ## Why
 
 ^ Mostly local sites, with some guest stars
-Like we looked at site, state, effect a moment ago
 "Ish" stats, tested on 3G using WebPageTest
 Cost Benefit analysis
 
@@ -271,8 +256,7 @@ Cost Benefit analysis
 
 ^ Because speed and weight
 request: blocking, round trip. what's a good number of requests / size?
-MB: average is 2.5MB. Not a **target**!
-Average requests: about 100 (!)
+Averages: about 100 requests (!), 2.5MB. Not a **target**!
 Cost Benefit analysis
 
 ---
@@ -313,7 +297,7 @@ Cost Benefit analysis
 
 ## cellc.co.za
 ## **150 requests, 2MB, 33s**
-## 1MB images: carousel :scream:
+## 1MB images: carousel
 
 ![fit](img/sites/cellc.jpg)
 
@@ -328,12 +312,12 @@ Also 0.7MB JS
 
 ![fit](img/sites/capetown.gov.za.jpg)
 
-^ Remember Bongani?
-Biggest JS: 0.3MB, 13,000 lines, things like animation
-health, education, water, electricity, Financial relief, jobs
-older, slower, phones
-Tourist on roaming rates (because FICA)
-0.3MB is hero
+^ * Remember Bongani?
+* Biggest JS: 0.3MB, 13,000 lines, things like animation
+* health, education, water, electricity, Financial relief, jobs
+* older, slower, phones
+* Tourist on roaming rates (because FICA)
+* 0.3MB is hero
 
 ---
 
@@ -425,6 +409,7 @@ WPT: lots of stats
 ![](img/speedcurve.jpg)
 
 ^ Monitoring service
+Uses WPT
 
 ---
 
@@ -439,24 +424,18 @@ WPT: lots of stats
 ## 3. Now what?
 
 ^ 1. FED Perf is speed and weight
-2. We can save users time, money, save us money
+2. We can save time and money
 3. Think about perf when desiging, measure perf
 
 ---
 
-## **Resources**
+### **Thanks! :v:**
 
-## naga.co.za/pup2017
-
-^ short URL
-
----
-
-## **Thanks! :v:**
-
-## danielle.lisa.eriksen<br>@gmail.com
-## steve<br>@naga.co.za
+### danielle.lisa.eriksen<br>@gmail.com
+### steve<br>@naga.co.za
 
 ![](img/dani.jpg) ![](img/steve.jpg)
+
+### **naga.co.za/pup2017**
 
 ^ Email or on meetup
