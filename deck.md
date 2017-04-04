@@ -55,6 +55,7 @@ Simplified version of perf because time
 ![](img/speed.jpg)
 
 ^ (Speed has perceived vs actual)
+What loads when?
 Save time for users
 
 ---
@@ -139,7 +140,6 @@ Convert airtime to data: that means out of bundle rates
 ^ 5k / m
 => 1.2k / week
 => 240 day
-R15 out of R240 for the day
 5% of her income
 
 ---
@@ -231,7 +231,7 @@ Before, the page wouldn't load. Now it does!
 
 # **2. So What?** (Part 3)
 
-^ **not me!**
+^ **this could happen to us**
 Perf Perps
 Not blame game, more like:
 look, it could happen to you
@@ -245,6 +245,7 @@ look, it could happen to you
 ^ Mostly local sites, with some guest stars
 "Ish" stats, tested on 3G using WebPageTest
 Cost Benefit analysis
+Every thing you add must have a justification
 
 ---
 
@@ -271,6 +272,8 @@ Cost Benefit analysis
 No fancy widgets. Tracking, ads.
 Also 1.4MB images
 Cost Benefit analysis
+✋ Who reads DM?
+✋ Who goes there for the ads?
 
 ---
 
@@ -292,6 +295,7 @@ Cost Benefit analysis
 ![fit](img/sites/medium.jpg)
 
 ^ text and images!
+✋ Who uses medium?
 
 ---
 
@@ -301,8 +305,9 @@ Cost Benefit analysis
 
 ![fit](img/sites/cellc.jpg)
 
-^ Remember Bongani?
+^ Remember Bongani? R1 for this page.
 Also 0.7MB JS
+✋ Who's used a carousel on a recent project?
 
 ---
 
@@ -324,6 +329,8 @@ Also 0.7MB JS
 # **4. Now what?**
 
 ^ **What can we do?**
+How to save users time and money?
+How to save us time and money?
 
 ---
 
@@ -331,16 +338,25 @@ Also 0.7MB JS
 # Use less stuff
 
 ^ Mental cost-benefit analysis
+Less stuff means less work means less maintaining
+Less stuff means faster, less weight
 
 ---
 
 # **Images**
 ## Threat Level: :scream:
 
+^ Don't use too many
+Optimise them
+
+
 ---
 
 # **Carousels**
 ## Threat Level: :scream::scream:
+
+^ Are you sure? Are you using a good one?
+Keep them small?
 
 ---
 
@@ -353,20 +369,22 @@ Also 0.7MB JS
 ## Threat Level: :skull: + :rage:
 
 ^ Not saying you're a monster.
-But you should be ashamed of yourself.
-😬
+Might be saying you're naughty.
 
 ---
 
 # **Animations**
 ## Threat Level: :scream: or :scream::scream:
 
+^ Do they help?
+
 ---
 
 # **Custom UI**
-^ widget, sprockets, geegaws, doodads
-
 ## Threat Level: :scream: to :scream::scream::scream:
+
+^ widget, sprockets, geegaws, doodads
+Apart from the UX and maintenance headaches you'll give yourself: they tend to be heavy
 
 ---
 
@@ -391,6 +409,7 @@ Yes, #itscomplicated, but...
 ![110%](img/devtools-network.png)
 
 ^ Lots of stuff there!
+Scary at first, but only need a few bits.
 
 ---
 
@@ -398,6 +417,7 @@ Yes, #itscomplicated, but...
 ## WebPageTest
 
 ^ PSI: not because OMG Google :100:, but because good advice. use as checklist
+Something to talk to your FEDs about
 WPT: lots of stats
 
 ![](img/pagespeed.jpg)
