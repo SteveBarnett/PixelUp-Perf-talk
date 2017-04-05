@@ -5,6 +5,7 @@ theme: Fira, 1
 ^ It's a thing.
 Look it up on twitter.
 Think about perf more in your day to day.
+Link list at the end.
 
 ---
 
@@ -38,7 +39,7 @@ Where work, What do
 
 # **1. What?**
 
-^ The Front-end of what?
+^ What (is perf)?
 
 ---
 
@@ -211,6 +212,7 @@ wpostats.com (mostly)
 ## large increase in traffic<br>in areas with<br>poor connectivity
 
 ^ Southeast Asia, South America, Africa, and Siberia.
+✋ Why?
 Before, the page wouldn't load. Now it does!
 
 ---
@@ -285,17 +287,6 @@ Cost Benefit analysis
 
 ^ "high quality" JPGs, not large size?
 160 images
-
----
-
-## medium.com
-## **90 requests, 3.7MB, 30s**
-## 0.5MB JS: for what?<br>2.9MB images: 67, really?
-
-![fit](img/sites/medium.jpg)
-
-^ text and images!
-✋ Who uses medium?
 
 ---
 
